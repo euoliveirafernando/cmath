@@ -1,0 +1,5 @@
+{{token_euler, "e"}, {token_complex, "i"}},
+{{token_pi, "pi"}, {token_ln, "ln"}},
+{{token_det, "det"}, {token_rad, "rad"}, {token_log, "log"}, {token_exp, "exp"}, {token_sin, "sin"}, {token_cos, "cos"}, {token_tan, "tan"}, {token_csc, "csc"}, {token_sec, "sec"}, {token_cot, "cot"}},
+{{token_sqrt, "sqrt"}, {token_cbrt, "cbrt"}},
+{{token_arcsin, "arcsin"}, {token_arccos, "arccos"}, {token_arctan, "arctan"}, {token_arccsc, "arccsc"}, {token_arcsec, "arcsec"}, {token_arccot, "arccot"}}
